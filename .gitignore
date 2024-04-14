@@ -3,8 +3,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+/src/main/resources/db/db.properties
+
 ### IntelliJ IDEA ###
-.idea/
+*.idea/
 *.iws
 *.iml
 *.ipr
